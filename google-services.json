@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552191951531",
+    "project_id": "links-app-d5366",
+    "storage_bucket": "links-app-d5366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552191951531:android:5eecdc2d4c82c7d7deadee",
+        "android_client_info": {
+          "package_name": "com.app.iamatstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552191951531-5gtj365kfjb8m8ha18757sj26pduk32k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkvkQPVJse5bLnxbpJQOvsoOvHYDhXUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552191951531-5gtj365kfjb8m8ha18757sj26pduk32k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
